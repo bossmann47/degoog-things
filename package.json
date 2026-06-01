@@ -1,0 +1,13 @@
+{
+  "name": "bossmann's degoog things",
+  "description": "Things for degoog",
+  "author": "bossmann47",
+  "plugins": [
+    {
+      "path": "plugins/duckai",
+      "name": "Duck.ai local API server",
+      "description": "Local, OpenAI-compatible backend using DuckDuckGo's private AI service",
+      "version": "1.0.0",
+    }
+  ],
+}
